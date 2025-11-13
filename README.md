@@ -1,1 +1,1 @@
-Repository containing my professional CV, research statement, and teaching philosophy. Explore my academic and industry experiences, research contributions, and teaching methodologies.
+This repository includes my professional CV, research statement, and teaching philosophy, highlighting my academic background, industry experience, research contributions, and teaching approach.
